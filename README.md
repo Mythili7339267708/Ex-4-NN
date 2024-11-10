@@ -1,7 +1,7 @@
 
-<H3>ENTER YOUR NAME</H3>  : V MYTHILI
-<H3>ENTER YOUR REGISTER NO.</H3> : 212223040123
-<H3>EX. NO.4</H3>
+<H3>ENTER YOUR NAME: V MYTHILI</H3>
+<H3> REGISTER NO: 212223040123</H3>
+<H3>EX. NO:4</H3>
 <H3>DATE:  26/09/24</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
